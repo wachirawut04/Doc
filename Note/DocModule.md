@@ -117,11 +117,35 @@
 
 <br>
 
-# Arm Cortax M0
+# Arm Cortex M0
 
-## test
+## STM32F091RCT6
+    <img src = aerwr>
 
-### test
+### Spec :
+
+| Topic | Description
+| ------------ | ------------ 
+| Model Number      | GT-U7 
+| Type              | GPS Module
+| Place of Origin   | China
+| Brand Name        | Shenzhen Jiexin Chuangke Technology Co., Ltd.
+
+### Price :
+
+| Topic | Description
+| ------------ | ------------ 
+| 1 - 49 pieces     | $6.20
+| 50 - 99 pieces    | $6.00
+| 100 - 499 pieces  | $5.10
+| >= 500 pieces     | $5.50
+
+### Datasheet :
+- Not Found
+
+### Source :
+- [Link]()
+
 
 
 
@@ -161,7 +185,6 @@
 ## 1oT eSIM
 
 <img src="https://1ot.com/assets/logo_new.svg" alt="Alt text" width="400"/>
-
 
 ### Source 
 - [Link](https://1ot.com/connectivity/esim/pricing#sub-nav-bar)
