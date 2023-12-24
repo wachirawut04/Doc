@@ -15,7 +15,7 @@
 
 ### Price :
 
-| Topic | Description
+| Unit | Price
 | ------------ | ------------ 
 | 1 - 49 pieces   | $6.20
 | 50 - 99 pieces   | $6.00
@@ -46,7 +46,7 @@
 
 ### Price :
 
-| Topic | Description
+| Unit | Price
 | ------------ | ------------ 
 | > 1 pieces    | $0.10
 
@@ -72,7 +72,7 @@
 
 ### Price :
 
-| Topic | Description
+| Unit | Price
 | ------------ | ------------ 
 | 1 - 4 pieces      | $18.47
 | 5 - 9 pieces      | $16.65
@@ -102,7 +102,7 @@
 
 ### Price :
 
-| Topic | Description
+| Unit | Price
 | ------------ | ------------ 
 | 5 - 199 pieces    | $5.50
 | 200 - 499 pieces  | $5.30
@@ -117,34 +117,103 @@
 
 <br>
 
-# Arm Cortex M0
+# ARM Cortex M0
 
 ## STM32F091RCT6
-    <img src = aerwr>
+<img src="https://th.mouser.com/images/mouserelectronics/lrg/LQFP_64_t.jpg" alt="Alt text" width="400"/>
 
 ### Spec :
 
 | Topic | Description
 | ------------ | ------------ 
-| Model Number      | GT-U7 
-| Type              | GPS Module
-| Place of Origin   | China
-| Brand Name        | Shenzhen Jiexin Chuangke Technology Co., Ltd.
+| Manufacturer          | STMicroelectronics
+| Product Category      | ARM Microcontrollers - MCU	
+| Series                | STM32F091RC
+| Mounting Style        | SMD/SMT	
+| Package/Case          | LQFP-64 
+| Supply Voltage - Max  | 3.6 V
+| Supply Voltage - Min  | 2 V
+| Brand Name            | STMicroelectronics
 
-### Price :
+### Price : 
+
+| Unit | Price
+| ------------ | ------------ 
+| 1     pieces          |$6.11
+| 10    pieces          |$5.52
+| 25    pieces          |$5.26
+| 100   pieces          |$4.16
+
+### Datasheet :
+- [Link](https://th.mouser.com/datasheet/2/389/stm32f091cc-1588803.pdf)
+
+### Source :
+- [Link](https://th.mouser.com/ProductDetail/STMicroelectronics/STM32F091RCT6?qs=ClYTdQWm4hDCc82GnPpqOQ%3D%3D)
+
+
+## NUCLEO-F030R8 (Dev Module)
+<img src="https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/500/MFG_NUCLEO.jpg" alt="Alt text" width="400"/>
+
+### Spec :
 
 | Topic | Description
 | ------------ | ------------ 
-| 1 - 49 pieces     | $6.20
-| 50 - 99 pieces    | $6.00
-| 100 - 499 pieces  | $5.10
-| >= 500 pieces     | $5.50
+| Manufacturer          | STMicroelectronics
+| Product Category      | Development Boards
+| Series                | STM32F0
+| Mounting Style        | Surface Mount
+| Package/Case          | Board
+| Supply Voltage - Max  | 5 V
+| Supply Voltage - Min  | 3.3 V
+| Brand Name            | 	STMicroelectronics
+
+### Price : 
+
+| Unit | Price
+| ------------ | ------------ 
+| 1      pieces               |$6.11
+| 10    pieces              |$5.52
+| 25    pieces              |$5.1i
+| 100  pieces              |$5.50
 
 ### Datasheet :
-- Not Found
+- [Link](https://www.st.com/content/ccc/resource/technical/document/data_brief/c8/3c/30/f7/d6/08/4a/26/DM00105918.pdf/files/DM00105918.pdf/jcr:content/translations/en.DM00105918.pdf)
 
 ### Source :
-- [Link]()
+- [Link](https://www.digikey.co.th/en/products/detail/stmicroelectronics/STM32F030C6T6TR/7804400?utm_adgroup=&utm_source=google&utm_medium=cpc&utm_campaign=Pmax_Focus%20Supplier&utm_term=&productid=7804400&utm_content=&utm_id=go_cmp-20227059005_adg-_ad-__dev-c_ext-_prd-7804400_sig-CjwKCAiAyp-sBhBSEiwAWWzTnlg0hRAllpPqmBeGRwLXaJacz07h9SZBcU-PwlaFX-trGcd4AMtaPRoCSb0QAvD_BwE&gad_source=4&gclid=CjwKCAiAyp-sBhBSEiwAWWzTnlg0hRAllpPqmBeGRwLXaJacz07h9SZBcU-PwlaFX-trGcd4AMtaPRoCSb0QAvD_BwE)
+
+
+## NUCLEO-F030R8 (Dev Module)
+<img src="https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/500/MFG_NUCLEO.jpg" alt="Alt text" width="400"/>
+
+### Spec :
+
+| Topic | Description
+| ------------ | ------------ 
+| Manufacturer          | STMicroelectronics
+| Product Category      | Development Boards
+| Series                | STM32F0
+| Mounting Style        | Surface Mount
+| Package/Case          | Board
+| Supply Voltage - Max  | 5 V
+| Supply Voltage - Min  | 3.3 V
+| Brand Name            | 	STMicroelectronics
+
+### Price : 
+
+| Unit | Price
+| ------------ | ------------ 
+| 1      pieces               |$6.11
+| 10    pieces              |$5.52
+| 25    pieces              |$5.1i
+| 100  pieces              |$5.50
+
+### Datasheet :
+- [Link](https://th.mouser.com/datasheet/2/389/stm32f091cc-1588803.pdf)
+
+### Source :
+- [Link](https://th.mouser.com/ProductDetail/STMicroelectronics/STM32F091RCT6?qs=ClYTdQWm4hDCc82GnPpqOQ%3D%3D)
+
 
 
 
@@ -166,7 +235,7 @@
 
 ### Price :
 
-| Topic | Description
+| Unit | Price
 | ------------ | ------------ 
 | 1 - 49 pieces     | $6.20
 | 50 - 99 pieces    | $6.00
