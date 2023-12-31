@@ -301,31 +301,159 @@
 ### Source :
 - [Link](https://www.digikey.co.th/en/products/detail/stmicroelectronics/NUCLEO-F042K6/5428804?utm_adgroup=&utm_source=google&utm_medium=cpc&utm_campaign=PMax%20Shopping_Product_Lower%20Performing&utm_term=&productid=5428804&utm_content=&utm_id=go_cmp-20145455216_adg-_ad-__dev-c_ext-_prd-5428804_sig-CjwKCAiAyp-sBhBSEiwAWWzTnttI2rPmfddsJgviR9d7O-hBiPSGerg3-2ctcGPAlW2t5lj6mT1R5hoCaAUQAvD_BwE&gad_source=1&gclid=CjwKCAiAyp-sBhBSEiwAWWzTnttI2rPmfddsJgviR9d7O-hBiPSGerg3-2ctcGPAlW2t5lj6mT1R5hoCaAUQAvD_BwE)
 
-## Cortex-M0 Development Board
-<img src="https://dm.lnwfile.com/_/dm/_raw/76/iq/4u.jpg" alt="Alt text" width="400"/>
+##  STM32F401 Module Board
+<img src="https://ae01.alicdn.com/kf/H51f53988e4284270b59b35d073f4fa13j.jpg_640x640Q90.jpg_.webp" alt="Alt text" width="400"/>
 
 ### Specifications :
 
 | Topic | Description
 | ------------ | ------------ 
-| Manufacturer          | None
+| Manufacturer        | None
 | Product Category      | Board
-| Series                | STM32F051C8T6
-| Mounting Style        | SMD/SMT	
-| Package/Case          | F051C8T6
+| Series                | STM32F401
+| Mounting Style        | SMD/SM
+| Package/Case          | Board
 | Supply Voltage - Max  | 5 V
 | Supply Voltage - Min  | 3.3 V
 | Brand Name            | None
 
 ### Price : 
 
-| Unit | Price
+| Version | Price | 
 | ------------ | ------------ 
-| 1     pieces          |$7.51
+| STM32F401CCU6          |$3.21
+| STM32F411CEU6           |$5.81
 
 
 ### Source :
-- [Link](https://www.lazada.co.th/products/cortex-m0-stm32f051c8t6-stm32-arm-core-board-development-board-i643762378-s1237228504.html?spm=a2o4m.tm80167383.2074280300.1.77c5yQ2dyQ2di3.77c5yQ2dyQ2di3)
+- [Link](https://www.lazada.co.th/products/stm32f401-v30-stm32f401ccu6-stm32f411ceu6-stm32f484mhz-96kb-ram-512kb100mhz-128kb-ram-512kb-i4315526566-s17180193913.html?)
+
+## Modbus Soil Sensor
+<img src="https://th-test-11.slatic.net/p/5112dc030e28814e8d90dd388fdf056e.png" alt="Alt text" width="400"/>
+
+### Specifications :
+
+| Topic | Description
+| ------------ | ------------ 
+| Manufacturer          | None
+| Product Category      | Module Sensor
+| Series                | EC PH NPK
+| Mounting Style        | SMD/SM
+| Package/Case          | Module Sensor
+| Supply Voltage - Max  | 5 V
+| Supply Voltage - Min  | 0 V
+| Brand Name            | None
+
+### Price : 
+
+| Version | Description |<center> Output | Price |
+| ------------ | ------------ |  ------------ | ------
+| H-V10  |Humidity(mositure) |  <center> 0-10V | $26.15 | 
+| H-V5 |Humidity(mositure) | <center> 0-5V | $26.15|
+| TH-A |Temperature Humidity(mositure)  | <center> 4-20mA| $27.16|
+| TH-S |Temperature Humidity(mositure)  | <center>RS485  | $26.15|
+| TH-V10 |Temperature Humidity(mositure)  | <center> 0-10V | $26.15|
+| TH-V5  |Temperature Humidity(mositure) | <center>0-5V |$26.15|
+| HC-V5  |Humidity(mositure) Conductivity(EC) | <center>0-5V |$32.19 |
+| HC-A  | Humidity(mositure) Conductivity(EC)  | <center>4-20mA | $26.15|
+| THC-S  | Temperature Humidity(mositure)  Conductivity(EC)| <center>RS485 | $26.15| 
+| HC-V10 |Humidity(moisture) conductivity(EC)   | <center>0-10V  |$26.15|
+| THCPH-S |Temperature Humidity(mositure)  pH Conductivity(EC)  | <center>RS485 | $42.85|
+| THPH-S |Temperature Humidity(mositure)  pH  | <center>RS485| $40.63
+| NPKTHPH-S |N P K pH Temperature Humiditty(mositure)  |  <center>RS485| $26.15
+| NPK-S |N P K |    <center>RS485 |$34.59
+| NPKPHCTH-S | N P K pH Temperature Humiditty(mositure)  Conductivity(EC) |  <center>RS485|$55.51
+| NPKTHC-S |N P K Temperature Humiditty(mositure) Conductivity(EC)  |  <center>RS485|$44.15
+| PH-S | pH  |  <center>RS485|$32.19
+| PH-V5 |pH |   <center>0-5V  |$32.19
+| PH-A |pH |  <center>4-20mA   |$32.19
+| H-A |Humidity(Mositure)t|  <center>4-20mA |$26.15
+| H-S |Humidity(Mositure) |<center>RS485|$26.15
+| HMI043W016-Screen| Monitor Screen | <center>Monitor Screen |$50.18
+
+
+
+
+
+### Source :
+- [Link](https://www.lazada.co.th/products/ec-ph-npk-4-20ma-0-5v-rs485-modbus-soil-sensor-i4813994140-s19944306993.html?)
+
+##  STM32F401 Module Board
+<img src="https://down-th.img.susercontent.com/file/261c61a6c64f44b80ea305941f4d1d06" alt="Alt text" width="400"/>
+
+### Specifications :
+
+| Topic | Description
+| ------------ | ------------ 
+| Manufacturer          | None
+| Product Category      | Module
+| Series                | STM32F401
+| Mounting Style        | SMD/SM
+| Package/Case          | Module
+| Supply Voltage - Max  | 5 V
+| Supply Voltage - Min  | 3.3 V
+| Brand Name            | None
+
+### Price : 
+
+| Unit| Price | 
+| ------------ | ------------ 
+|    1       |$3.90
+
+## SIM900 & SIM900a 
+<img src="https://down-th.img.susercontent.com/file/cb89da8e557d124c59d6cf52981b29da" alt="Alt text" width="400"/>
+
+### Specifications :
+
+| Topic | Description
+| ------------ | ------------ 
+| Manufacturer          | None
+| Product Category      | Module
+| Series                | SIM900
+| Mounting Style        | SMD/SM
+| Package/Case          | Module
+| Supply Voltage - Max  | 5V
+| Supply Voltage - Min  | 3.3V
+| Brand Name            | None
+
+### Price : 
+
+| Version| Description |Price | 
+| ------------ | ------------  | ------------  
+|    SIM900   | 800/900/1800/1900 MHz   |$11.67
+|    SIM900A  | 900/1800 MHz   |$5.11
+
+
+### Source :
+- [Link](https://shopee.co.th/SIM900-SIM900a-V4.0-%E0%B8%8A%E0%B8%B8%E0%B8%94%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%AA%E0%B8%B2%E0%B8%A2-GSM-GPRS-%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8-%E0%B9%83%E0%B8%AA%E0%B9%88%E0%B8%8B%E0%B8%B4%E0%B8%A1%E0%B9%84%E0%B8%94%E0%B9%89-i.75820627.17214375544)
+
+## SIM800L GSM/GPRS Module
+<img src="https://dw.lnwfile.com/_/dw/_raw/4i/6r/dw.jpg" alt="Alt text" width="400"/>
+
+### Specifications :
+
+| Topic | Description
+| ------------ | ------------ 
+| Manufacturer          | 	None
+| Product Category      | Module Boards
+| Series                | SIM800L
+| Mounting Style        | SMD/SMT 
+| Package/Case          | S2-1065J-Z142L
+| Supply Voltage - Max  | 5 V
+| Supply Voltage - Min  | 3.3 V
+| Brand Name            | 	None
+
+### Price : 
+
+| Unit | Price
+| ------------ | ------------ 
+| 1      pieces         |$6.91 (เสาPCB)
+| 1      pieces         |$7.20 (เสากลม)
+
+
+
+### Source :
+- [Link](https://www.modulemore.com/product/1855/%E0%B9%82%E0%B8%A1%E0%B8%94%E0%B8%B9%E0%B8%A5-sim800l-%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%B2%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93-sim800l-module-replaces-sim900a-sms-data-gsm-gprs-4-band-available-5v-s?pid=1857)
 
 ## SIM800L GSM/GPRS Module
 <img src="https://down-th.img.susercontent.com/file/sg-11134201-22100-jsh7y7mpp8iv4e" alt="Alt text" width="400"/>
